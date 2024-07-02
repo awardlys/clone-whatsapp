@@ -1,7 +1,3 @@
-export default function Home() {
-  return (
-    <main>
-      <div>Rivaldo</div>
-    </main>
-  );
+export default function Login() {
+  return <div></div>;
 }
